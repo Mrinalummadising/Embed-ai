@@ -37,7 +37,7 @@ button{
     padding-left: 12px;
     position: fixed;
     display: flex;
-    width: 24%;
+    width: 15%;
     flex-direction: column;
     justify-content: space-between;
     height: 96vh;
