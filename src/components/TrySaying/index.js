@@ -97,7 +97,9 @@ const TrySaying = () =>{
         </ul><br />
         <div className="create-character-container">
         <div className="create-char-image-container">
-            <img src="https://character.ai/_next/image?url=%2Fhomeassets%2Fzeus.webp&w=128&q=25" className="create-ava-image" alt="Character"/>
+                <img src="https://character.ai/_next/image?url=%2Fhomeassets%2Fnoblewoman.webp&w=96&q=25" className="create-ava-image2" alt="Character"/>
+                <img src="https://character.ai/_next/image?url=%2Fhomeassets%2Fzeus.webp&w=128&q=25" className="create-ava-image" height={150} alt="Character"/>
+                <img src="https://character.ai/_next/image?url=%2Fhomeassets%2Fphilosopher.webp&w=96&q=25" className="create-ava-image3" alt="character"/>
         </div>
         <div className="create-character-description">
           <div className="create-char-descr">Create a Character</div>
